@@ -19,7 +19,6 @@ modules:
       title: AITestGen
       resolver:
         function: resolver
-      render: native
       description: testcase generator
       label: Testcases
       icon: resource:AtlassianUI;issues.svg
